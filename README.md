@@ -36,4 +36,7 @@ To play the game, follow these steps:
 
 - [Harshal Choudhary] - [harshalchoudhary00001@gmail.com]
 
-##LinkdIn Post Link :- (" https://www.linkedin.com/posts/harshal-choudhary-a75117259_programming-gamedevelopment-cplusplus-activity-7164922835763675136-uhix?utm_source=share&utm_medium=member_desktop ")
+## LinkdIn :
+
+LinkdIn Profile Link :- (" https://www.linkedin.com/in/harshal-choudhary-a75117259/ ")
+LinkdIn Post Link :- (" https://www.linkedin.com/posts/harshal-choudhary-a75117259_programming-gamedevelopment-cplusplus-activity-7164922835763675136-uhix?utm_source=share&utm_medium=member_desktop ")
