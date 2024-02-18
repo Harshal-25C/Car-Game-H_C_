@@ -1,10 +1,10 @@
 # Car-Game-H_C_
 
-# Car Game
+# Car Game :
 
 This is a simple car game implemented in C++ where the player controls a car to dodge incoming traffic and score points. The game is played in the console window.
 
-## Getting Started
+## Getting Started :
 
 To play the game, follow these steps:
 
@@ -12,7 +12,7 @@ To play the game, follow these steps:
 2. Compile the code using a C++ compiler.
 3. Run the executable file generated after compilation.
 
-## How to Play
+## How to Play :
 
 - Use the 'A' key to move the car to the left.
 - Use the 'D' key to move the car to the right.
@@ -20,19 +20,19 @@ To play the game, follow these steps:
 - Your score increases as you successfully dodge cars.
 - Press the 'Escape' key to exit the game at any time.
 
-## Features
+## Features :
 
 - Simple yet addictive gameplay.
 - Real-time traffic simulation.
 - Score tracking to keep track of your progress.
 
-## Controls
+## Controls :
 
 - **A Key:** Move the car to the left.
 - **D Key:** Move the car to the right.
 - **Escape Key:** Exit the game.
 
-## Contributors
+## Contributors :
 
 - [Harshal Choudhary] - [harshalchoudhary00001@gmail.com]
 
