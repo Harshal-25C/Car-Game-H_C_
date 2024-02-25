@@ -34,7 +34,7 @@ To play the game, follow these steps:
 
 ## Contributors :
 
-- [Harshal Choudhary] - [ harshalchoudhary00001@gmail.com ]
+-  [ Harshal Choudhary ] - [ harshalchoudhary00001@gmail.com ]
 
 ## LinkdIn :
 
