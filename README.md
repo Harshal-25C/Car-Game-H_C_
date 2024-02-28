@@ -6,7 +6,7 @@ This is a simple car game implemented in C++ where the player controls a car to 
 
 ## Getting Started :
 
-To play the game, follow these steps:
+To play the game, follow these steps :
 
 1. Clone the repository to your local machine.
 2. Compile the code using a C++ compiler.
