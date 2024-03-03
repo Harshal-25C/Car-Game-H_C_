@@ -14,11 +14,11 @@ To play the game, follow these steps :
 
 ## How to Play :
 
-- Use the 'A' key to move the car to the left.
-- Use the 'D' key to move the car to the right.
+- Use the `A` key to move the car to the left.
+- Use the `D` key to move the car to the right.
 - Dodge incoming cars to avoid collisions and stay alive.
 - Your score increases as you successfully dodge cars.
-- Press the 'Escape' key to exit the game at any time.
+- Press the `Escape` key to exit the game at any time.
 
 ## Features :
 
