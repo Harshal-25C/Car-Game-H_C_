@@ -28,9 +28,9 @@ To play the game, follow these steps :
 
 ## Controls :
 
-- **A Key:** Move the car to the left.
-- **D Key:** Move the car to the right.
-- **Escape Key:** Exit the game.
+- **A Key :** Move the car to the left.
+- **D Key :** Move the car to the right.
+- **Escape Key :** Exit the game.
 
 ## Contributors :
 
