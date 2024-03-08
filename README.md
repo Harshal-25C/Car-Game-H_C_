@@ -45,8 +45,6 @@ To play the game, follow these steps :
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**MIT License**
-
 MIT License
 
 Copyright (c) 2024 Harshal Choudhary
