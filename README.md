@@ -10,7 +10,7 @@ To play the game, follow these steps :
 
 > 1. Clone the repository to your local machine.
 > 2. Compile the code using a C++ compiler.
-> 3. Run the executable file generated after compilation.  
+> 3. Run the Executable File generated after compilation.  
 
 ## How to Play :
 
